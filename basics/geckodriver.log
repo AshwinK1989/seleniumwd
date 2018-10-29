@@ -1,0 +1,10 @@
+1540801233812	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_w/x_38zqg11qj6tzy41s3_46t80000gq/T/rust_mozprofile.LENyQnEDvg5J"
+1540801243593	Marionette	INFO	Listening on port 56347
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1540801250041	Marionette	INFO	Stopped listening on port 56347
+1540801252025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_w/x_38zqg11qj6tzy41s3_46t80000gq/T/rust_mozprofile.HO3ONO9cIbyZ"
+1540801254682	Marionette	INFO	Listening on port 56411
+1540801254690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540804707597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_w/x_38zqg11qj6tzy41s3_46t80000gq/T/rust_mozprofile.ajcjKAHt4vLP"
+1540804710947	Marionette	INFO	Listening on port 60232
+1540804711053	Marionette	WARN	TLS certificate errors will be ignored for this session
