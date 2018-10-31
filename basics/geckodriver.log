@@ -8,3 +8,8 @@ JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.j
 1540804707597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_w/x_38zqg11qj6tzy41s3_46t80000gq/T/rust_mozprofile.ajcjKAHt4vLP"
 1540804710947	Marionette	INFO	Listening on port 60232
 1540804711053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540888919600	Marionette	INFO	Stopped listening on port 60232
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1540888921932	Marionette	INFO	Stopped listening on port 56411
