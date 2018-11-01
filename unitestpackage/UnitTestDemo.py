@@ -3,6 +3,10 @@ import unittest
 
 class UnitTestDemo(unittest.TestCase):
 
+    @classmethod
+    def setUpClass(self):
+        print('This will run before all the tests')
+
     def setUp(self):
         print('This will run before every Test')
 
@@ -14,6 +18,10 @@ class UnitTestDemo(unittest.TestCase):
 
     def tearDown(self):
         print('This will run after every Test')
+
+    @classmethod
+    def tearDownClass(self):
+        print('This will run after all Tests')
 
 
 if __name__ == '__main__':
