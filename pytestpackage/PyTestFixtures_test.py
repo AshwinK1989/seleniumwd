@@ -1,5 +1,6 @@
 import pytest
 
+
 @pytest.yield_fixture()
 def setup():
     print('Running before every Test')
